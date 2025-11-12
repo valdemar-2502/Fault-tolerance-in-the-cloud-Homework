@@ -67,7 +67,15 @@
 ---
 ## Решение
 ---
+[main.tf](
+---
+![Скриншот](https://github.com/valdemar-2502/Fault-tolerance-in-the-cloud-Homework/blob/main/terraform_balance1.png)
+![Скриншот](https://github.com/valdemar-2502/Fault-tolerance-in-the-cloud-Homework/blob/main/terraform_balance2.png)
+![Скриншот](https://github.com/valdemar-2502/Fault-tolerance-in-the-cloud-Homework/blob/main/terraform_balance_1_2.png)
+![Скриншот](https://github.com/valdemar-2502/Fault-tolerance-in-the-cloud-Homework/blob/main/terraform_balance3.png)
+![Скриншот](https://github.com/valdemar-2502/Fault-tolerance-in-the-cloud-Homework/blob/main/terraform_nginx_screen.png)
 
+---
 ## Задания со звёздочкой*
 Эти задания дополнительные. Выполнять их не обязательно. На зачёт это не повлияет. Вы можете их выполнить, если хотите глубже разобраться в материале.
 
