@@ -67,7 +67,9 @@
 ---
 ## Решение
 ---
-[main.tf](
+[Terraform Playbook main.tf](https://github.com/valdemar-2502/Fault-tolerance-in-the-cloud-Homework/blob/main/main.tf)
+
+---
 ---
 ![Скриншот](https://github.com/valdemar-2502/Fault-tolerance-in-the-cloud-Homework/blob/main/terraform_balance1.png)
 ![Скриншот](https://github.com/valdemar-2502/Fault-tolerance-in-the-cloud-Homework/blob/main/terraform_balance2.png)
